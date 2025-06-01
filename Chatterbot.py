@@ -1,3 +1,8 @@
+"""
+This script creates and trains a simple chatbot named FreeBirdsBot using ChatterBot.
+It uses ListTrainer with predefined conversations and interacts via the command line.
+"""
+
 #import chat bot from chatterbot and import list trainer
 
 from chatterbot import ChatBot
