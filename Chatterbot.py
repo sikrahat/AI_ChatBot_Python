@@ -1,8 +1,3 @@
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-pip install chatterbot
-
-
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 
