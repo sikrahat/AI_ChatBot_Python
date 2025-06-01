@@ -1,3 +1,5 @@
+#import chat bot from chatterbot and import list trainer
+
 from chatterbot import ChatBot
 from chatterbot.trainers import ListTrainer
 
